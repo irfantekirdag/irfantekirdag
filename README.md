@@ -1,16 +1,133 @@
-## Hi there 👋
+<!-- PROFIL HEADER -->
+<h1 align="center">👋 Hi, I'm Irfan</h1>
 
-<!--
-**irfantekirdag/irfantekirdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Junior Software Developer • Computer Programming Graduate • Future Software Engineer in Germany
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://irfantekirdag.com.tr">🌐 Website</a> •
+  <a href="mailto:youremail@example.com">✉️ E-mail</a> <!-- burayı kendi mailinle değiştir -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Hakkımda
+
+- 🎓 İzmir Ekonomi Üniversitesi **Bilgisayar Programcılığı** mezunuyum.  
+- 🇩🇪 Almanya’da **Yazılım Mühendisliği** hedefliyorum.  
+- 🤖 **Python, Machine Learning, Streamlit** ve **Java** ile projeler geliştiriyorum.  
+- 🎮 Boş zamanlarımda oyun oynuyor, küçük deneysel projelerle kendimi geliştiriyorum.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+- Python • Java • SQL • HTML / CSS
+
+**Tools & Frameworks**
+
+- Streamlit • Tkinter  
+- MySQL  
+- Git & GitHub  
+
+**İlgi Alanlarım**
+
+- NLP & Text Summarization  
+- Data Science & Machine Learning  
+- Desktop UI (Tkinter)  
+- Web UI & küçük web projeleri  
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+#### 🧾 Synthesia Summary App (V1)
+Text summarization app with **Streamlit, Transformers, BeautifulSoup**.  
+- 🌍 Web yazılarını veya metinleri özetler  
+- 📄 PDF export özelliği  
+- 🌐 Çoklu dil desteği  
+- 🧠 NLP odaklı bir proje
+
+➡️ Repo: [synthesia-summary-app-v1](https://github.com/irfantekirdag/synthesia-summary-app-v1)
+
+---
+
+#### 🌐 Synthesia Summary App (V0 – Web Summarizer)
+AI-powered web summarization tool with multi-language support and export to PDF, TXT, DOCX.  
+- 🔗 Linkten içerik çeker  
+- 📑 Farklı formatlarda çıktı üretir  
+- 🧪 V1 öncesi deneysel sürüm
+
+➡️ Repo: [synthesia-summary-app](https://github.com/irfantekirdag/synthesia-summary-app)
+
+---
+
+#### 📊 Data Science & Machine Learning Final Project
+My final project for my data science and machine learning course.  
+- 📈 Data preprocessing & feature engineering  
+- 🤖 ML modelleri  
+- 📊 Notebook odaklı çalışma
+
+➡️ Repo: [Data-Science-and-Machine-Learning](https://github.com/irfantekirdag/Data-Science-and-Machine-Learning)
+
+---
+
+#### 🍷 Alcohol Website
+I made this website in my senior year, blending all my knowledge into a single project.  
+- 🌐 HTML tabanlı web sitesi  
+- 🎨 Tasarım + içerik odaklı proje
+
+➡️ Repo: [Alcohol-Website](https://github.com/irfantekirdag/Alcohol-Website)
+
+---
+
+#### 🐍 Tkinter Projects
+I connected a Tkinter-based interface to a database and saved data through the UI.  
+- 🖥️ Desktop arayüz  
+- 💾 Veritabanı bağlantısı
+
+➡️ Repo: [tkinter-projects](https://github.com/irfantekirdag/tkinter-projects)
+
+---
+
+#### 🛒 Cheapotomat – Vending Machine UI
+I designed an interface for vending machines connected to a database.  
+- 🧾 Ürün & satış mantığı  
+- 💾 Veritabanı ile bağlantılı arayüz
+
+➡️ Repo: [cheapotomat](https://github.com/irfantekirdag/cheapotomat)
+
+---
+
+### 📚 Diğer Çalışmalarım
+
+- 🕹️ **Java-Languages-Game** – Terminal üzerinde oynanan basit bir Java oyunu  
+- 🗃️ **MySql-Project** – Normalizasyon kurallarına uygun profesyonel bir veritabanı  
+- 🏢 **Java-Languages-Automation** – Java ile yazılmış otomasyon sistemi  
+- 🎬 **Photoshop-Skills** – Yarı dönemlik Photoshop eğitimiyle hazırlanmış film afişi çalışması
+
+Profilimdeki **Repositories** kısmından hepsine ulaşabilirsin.  
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfantekirdag&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfantekirdag&layout=compact&hide_border=true" alt="Top Langs" />
+</p>
+
+
+---
+
+### 🤝 İletişim
+
+- 🌐 Website: [irfantekirdag.com.tr](https://irfantekirdag.com.tr)  
+- ✉️ E-mail: irfantekirdag@icloud.com
