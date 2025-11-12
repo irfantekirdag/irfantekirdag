@@ -25,7 +25,7 @@
 
 **Languages**
 
-- Python · Java · SQL · HTML / CSS ·SwiftUI
+- Python · Java · SQL · HTML / CSS · SwiftUI
 
 **Tools & Frameworks**
 
