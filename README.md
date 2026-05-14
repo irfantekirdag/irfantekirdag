@@ -14,10 +14,10 @@
 
 ### 🧑‍💻 Hakkımda
 
-- 🎓 İzmir Ekonomi Üniversitesi **Bilgisayar Programcılığı** mezunuyum.  
-- 🇩🇪 Almanya’da **Yazılım Mühendisliği** hedefliyorum.  
-- 🧠 Python, Machine Learning, Streamlit ve Java ile projeler geliştiriyorum.  
-- 🎮 Boş zamanlarımda oyun oynuyor, küçük deneysel projelerle kendimi geliştiriyorum.
+- 🎓 I graduated from İzmir University of Economics with a degree in **Computer Programming**.  
+- 🇩🇪 I am aiming for a degree in **Software Engineering** in Germany.  
+- 🧠 I develop projects using Python, Machine Learning, Streamlit, and Java.  
+- 🎮 In my free time, I play video games and work on small experimental projects to improve my skills.
 
 ---
 
