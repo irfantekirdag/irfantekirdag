@@ -1,131 +1,78 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Irfan</h1>
+<h1 align="center">Hi, I'm Irfan 👋</h1>
 
 <p align="center">
-  Junior Software Developer · Computer Programming Graduate · Future Software Engineer in Germany
+  Software Developer · Computer Programming Graduate · Pursuing Software Engineering in Germany
 </p>
 
 <p align="center">
   <a href="https://irfantekirdag.com.tr">🌐 Website</a> ·
-  <a href="mailto:irfantekirdag@icloud.com">✉️ E-mail</a>
+  <a href="mailto:irfantekirdag@icloud.com">✉️ Email</a>
 </p>
 
 ---
 
-### 🧑‍💻 Hakkımda
+### About Me
 
-- 🎓 I graduated from İzmir University of Economics with a degree in **Computer Programming**.  
-- 🇩🇪 I am aiming for a degree in **Software Engineering** in Germany.  
-- 🧠 I develop projects using Python, Machine Learning, Streamlit, and Java.  
-- 🎮 In my free time, I play video games and work on small experimental projects to improve my skills.
-
----
-
-### 🧰 Tech Stack
-
-**Languages**
-
-- Python · Java · SQL · HTML / CSS · SwiftUI
-
-**Tools & Frameworks**
-
-- Streamlit · Tkinter  
-- MySQL  
-- Git & GitHub  
-
-**İlgi Alanlarım**
-
-- NLP & Text Summarization  
-- Data Science & Machine Learning  
-- Desktop UI (Tkinter)  
-- Web UI & küçük web projeleri  
+- 🎓 Graduated from İzmir University of Economics with a degree in **Computer Programming**.
+- 🇩🇪 Currently working toward a **Software Engineering** degree in Germany.
+- 🛠️ I build real, end-to-end products — Android apps, browser extensions, and web apps — not just tutorials.
+- 🧠 Particularly interested in practical applications of on-device AI, NLP, and automation.
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
+### Tech Stack
 
-#### 🧾 Synthesia Summary App (V1)
-Text summarization app with **Streamlit, Transformers, BeautifulSoup**.  
-- 🌍 Web yazılarını veya metinleri özetler  
-- 📄 PDF export özelliği  
-- 🌐 Çoklu dil desteği  
-- 🧠 NLP odaklı bir proje  
-
-➡️ Repo: [synthesia-summary-app-v1](https://github.com/irfantekirdag/synthesia-summary-app-v1)
-
----
-
-#### 🌐 Synthesia Summary App (V0 – Web Summarizer)
-AI-powered web summarization tool with multi-language support and export to PDF, TXT, DOCX.  
-- 🔗 Linkten içerik çeker  
-- 📑 Farklı formatlarda çıktı üretir  
-- 🧪 V1 öncesi deneysel sürüm  
-
-➡️ Repo: [synthesia-summary-app](https://github.com/irfantekirdag/synthesia-summary-app)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-#### 📊 Data Science & Machine Learning Final Project
-My final project for my data science and machine learning course.  
-- 📈 Data preprocessing & feature engineering  
-- 🤖 ML modelleri  
-- 📓 Notebook odaklı çalışma  
+### Featured Projects
 
-➡️ Repo: [Data-Science-and-Machine-Learning](https://github.com/irfantekirdag/Data-Science-and-Machine-Learning)
+#### 🚚 TeslimatRotaV2
+Offline-first Android app that plans real-world postal delivery routes in Germany.
+- Parses delivery manifests from PDF
+- Geocodes addresses and computes nearest-neighbor routing
+- Turn-by-turn navigation, fully offline
+- **Tech:** Java, Android, PDF parsing, geocoding
 
----
+> Private repository — happy to walk through the code or a demo on request.
 
-#### 🍷 Alcohol Website
-I made this website in my senior year, blending all my knowledge into a single project.  
-- 🌐 HTML tabanlı web sitesi  
-- 🎨 Tasarım + içerik odaklı proje  
+#### 🎬 Deutsch Reactor
+A Chrome extension that turns Netflix and YouTube into a German-learning tool.
+- Contextual subtitle translation powered by Chrome's on-device Prompt API
+- Redesigned library, popup, and settings UI
+- Stabilized subtitle rendering across both platforms
+- **Tech:** JavaScript, Chrome Extensions, on-device AI
 
-➡️ Repo: [Alcohol-Website](https://github.com/irfantekirdag/Alcohol-Website)
+> Private repository (personal-use extension).
 
----
+#### 🗂️ KIOS
+A personal life-archive web app — a private space to log and revisit life's moments over time.
+- Built with Next.js
+- Focused on a clean, fast, personal-use UI
+- **Tech:** Next.js, TypeScript
 
-#### 🐍 Tkinter Projects
-I connected a Tkinter-based interface to a database and saved data through the UI.  
-- 🖥️ Desktop arayüz  
-- 💾 Veritabanı bağlantısı  
-
-➡️ Repo: [tkinter-projects](https://github.com/irfantekirdag/tkinter-projects)
-
----
-
-#### 🛒 Cheapotomat – Vending Machine UI
-I designed an interface for vending machines connected to a database.  
-- 🧾 Ürün & satış mantığı  
-- 💾 Veritabanı ile bağlantılı arayüz  
-
-➡️ Repo: [cheapotomat](https://github.com/irfantekirdag/cheapotomat)
+> Private repository.
 
 ---
 
-### 📚 Diğer Çalışmalarım
+### Public Code
 
-- 🕹️ **Java-Languages-Game** – Terminal üzerinde oynanan basit bir Java oyunu  
-- 🗃️ **MySql-Project** – Normalizasyon kurallarına uygun profesyonel bir veritabanı  
-- 🏢 **Java-Languages-Automation** – Java ile yazılmış otomasyon sistemi  
-- 🎬 **Photoshop-Skills** – Yarı dönemlik eğitim sonrası tasarlanan film afişi  
-
-Profilimdeki **Repositories** kısmından hepsine ulaşabilirsin.
+- [synthesia-summary-app-v1](https://github.com/irfantekirdag/synthesia-summary-app-v1) — Text summarization app (Streamlit, Transformers, BeautifulSoup) with PDF export and multi-language support.
+- [synthesia-summary-app](https://github.com/irfantekirdag/synthesia-summary-app) — Earlier web-summarization tool with multi-format export (PDF, TXT, DOCX).
 
 ---
 
-### 📊 GitHub İstatistikleri
+### Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfantekirdag&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfantekirdag&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-### 🤝 İletişim
-
-- 🌐 Website: [irfantekirdag.com.tr](https://irfantekirdag.com.tr)  
-- ✉️ E-mail: [irfantekirdag@icloud.com](mailto:irfantekirdag@icloud.com)
+- 🌐 [irfantekirdag.com.tr](https://irfantekirdag.com.tr)
+- ✉️ [irfantekirdag@icloud.com](mailto:irfantekirdag@icloud.com)
